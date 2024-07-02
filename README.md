@@ -1,7 +1,7 @@
 Portfolio website: Sahar Awaji
 ===============================
 
-logo of ucf.png
+![UCF](path/to/ucf_logo.png)
     :alt: Sahar Awaji
 
 Hello, I am a PhD student at the University of Central Florida studying data science. I have worked on many data science and data analytics projects, all of which are summarized in my `CV <link_to_your_cv>`_. Summarized results of select journal papers, conference proceedings, hackathons, and personal projects are located in `projects <link_to_your_projects>`_. For a more up-to-date list of my publications, see my `Google Scholar <link_to_your_google_scholar>`_.
