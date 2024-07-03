@@ -1,8 +1,8 @@
 # Welcome!
 
-![UCF](https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png)
+<img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" alt="UCF" width="200"/>
 
-I'm [Dr. Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), and I recently completed my PhD at the University of Central Florida in Big Data Analytics. My research focused on integrating social physics, computational modeling, and statistics to understand social change. Review my [CV]((https://github.com/SaharAwaji/personal-website/blob/main/Sahar%20Awaji%20New%20CV1.pdf)).
+I'm [Dr. Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), and I recently completed my PhD at the University of Central Florida in Big Data Analytics. My research focused on integrating social physics, computational modeling, and statistics to understand social change. Review my [CV](https://github.com/SaharAwaji/personal-website/blob/main/Sahar%20Awaji%20New%20CV1.pdf).
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
@@ -20,9 +20,6 @@ I'm [Dr. Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/),
 - **March 2016**: Successfully defended my dissertation.
 - **August 2014**: Started a Master's in Mathematical Statistics at Taif University.
 
-
 </details>
 
 For more updates, please visit my [personal page](https://yourpersonalwebsite.com).
-
-
