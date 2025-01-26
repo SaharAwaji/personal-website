@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20ucf.png" alt="UCF" width="200"/>
 
-I'm [Dr. Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), and I recently completed my PhD at the University of Central Florida in Big Data Analytics. My research focused on integrating social physics, computational modeling, and statistics to understand social change. Review my [CV](https://github.com/SaharAwaji/personal-website/blob/main/Sahar%20Awaji%20New%20CV1.pdf).
+I'm [Dr. Sahar Awaji](https://www.linkedin.com/in/dr-sahar-awaji-phd-a82537b1/), and I recently completed my PhD at the University of Central Florida in Big Data Analytics. My research focused on integrating social physics, computational modeling, and statistics to understand social change. Review my [CV](https://github.com/SaharAwaji/personal-website/blob/main/Sahar%20Awaji%20New%20CV.pdf).
 
 <details>
 <summary>News & Updates: (Click to expand)</summary>
